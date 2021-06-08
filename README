@@ -1,0 +1,36 @@
+Writing by: Bar Doitch , ID: 208241539, UserName: bardo.
+----------------------------------------------------------------------------------------------------
+
+This program (that called 'ex_final') simulates UNIX-fs disk File System.
+The operating system Disk Management system is the way file names and their content are organized on disk.
+This simulation has a 256 character-size disk,this file system will only contain one folder and all files will be created under this folder.
+Every file that create by this program can contain final number of direct blocks and one direct block (this number will choose by the user, by format this disk).
+
+Should know before START:
+This program has a menu, case you press-->
+(0) - exit.
+(1) - list all the files.
+(2) - format this disk by your values of number of direct blocks and block size. 
+(3) - create new file by your value of this file name.
+(4) - open file by FileDescriptor.
+(5) - close file by FileDescriptor.
+(6) - write to file by FileDescriptor.
+(7) - read from file by FileDescriptor.
+(8) - delete file by file name.
+
+Pay attention *This disk File System need to format first!*
+
+Some technical instructions:
+for running : ctr+f5 In vs code
+
+This directory include also:
+DISK_SIM_FILE.txt
+main.cpp
+ex_final.h
+makefile 
+.vscode folder 
+
+GOOD LUCK!
+
+
+
