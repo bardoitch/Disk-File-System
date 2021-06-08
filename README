@@ -1,5 +1,3 @@
-Writing by: Bar Doitch , ID: 208241539, UserName: bardo.
-----------------------------------------------------------------------------------------------------
 
 This program (that called 'ex_final') simulates UNIX-fs disk File System.
 The operating system Disk Management system is the way file names and their content are organized on disk.
@@ -29,8 +27,6 @@ main.cpp
 ex_final.h
 makefile 
 .vscode folder 
-
-GOOD LUCK!
 
 
 
